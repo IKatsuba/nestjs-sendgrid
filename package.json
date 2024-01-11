@@ -38,7 +38,7 @@
     "deepmerge": "^4.2.2"
   },
   "devDependencies": {
-    "@nestjs/common": "^6.11.11",
+    "@nestjs/common": "^10.3.0",
     "@nestjs/core": "^6.11.11",
     "@nestjs/testing": "^6.11.11",
     "@types/deepmerge": "^2.2.0",
